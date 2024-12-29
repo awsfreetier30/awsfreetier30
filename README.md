@@ -1,92 +1,78 @@
-<h1 align="center">Hi there 👋, I'm Sai Kiran</h1>
-<h3 align="center">DevOps Engineer & Cloud Solutions Architect | Automation Enthusiast</h3>
+<h1 align="center">Hi there 👋, I'm AWS FreeTier</h1>
+<h3 align="center">Cloud & DevOps Professional | AWS Community Builder | Blogger</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saikirandevops&label=Profile%20views&color=2ea44f&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=awsfreetier30&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-## 🎯 Professional Summary
-I'm a passionate DevOps engineer focused on building scalable cloud infrastructure and automating deployment pipelines. With expertise in multiple cloud platforms and modern DevOps tools, I help organizations streamline their development processes and enhance operational efficiency.
+## Hi there 👋, AWS FreeTier this side 🚀
 
-## 🔭 Current Focus
-- Leading the implementation of **GitOps practices** in enterprise environments
-- Developing **Infrastructure as Code (IaC)** solutions using Terraform and CloudFormation
-- Building **self-healing Kubernetes clusters** with advanced monitoring
-- Automating **security compliance checks** in CI/CD pipelines
+✨ I'm currently focusing on upgrading skills 🌱
+🎯 Democratizing the Cloud & DevOps adoption 🚀
+⚡ Open to collaborate on open-source Projects 💫
+🌟 Loves to learn & share with the community 🎯
+💬 Ask me about anything, will be happy to help 🎉
+📫 How to reach me: awsfreetier30@gmail.com 📧
+🔭 Fun fact: I am an Original 🦊💫
 
-## 💡 Core Competencies
-
-### Cloud & Infrastructure
-- **Multi-Cloud Architecture**: AWS, Azure, GCP
-- **Container Orchestration**: Kubernetes, Docker Swarm
-- **Infrastructure as Code**: Terraform, CloudFormation, Pulumi
-- **Configuration Management**: Ansible, Chef
-
-### CI/CD & Automation
-- **Pipeline Tools**: Jenkins, GitLab CI, GitHub Actions
-- **Version Control**: Git, GitLab, GitHub
-- **Artifact Management**: Nexus, JFrog Artifactory
-- **Scripting**: Python, Bash, PowerShell
-
-### Monitoring & Security
-- **Observability**: Prometheus, Grafana, ELK Stack
-- **Log Management**: Splunk, CloudWatch
-- **Security Tools**: SonarQube, OWASP ZAP
-- **Compliance**: SOC2, ISO 27001
-
-## 🚀 Featured Projects
-
-### Cloud Cost Optimization Framework
-- Developed automated cost analysis tools
-- Implemented FinOps practices
-- Reduced cloud spending by 40%
-- [View Project](https://github.com/username/cost-optimization)
-
-### Kubernetes Auto-scaling Solution
-- Built custom metrics-based scaling
-- Implemented pod disruption budgets
-- Enhanced cluster reliability
-- [View Project](https://github.com/username/k8s-autoscaling)
-
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saikirandevops&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikirandevops&show_icons=true&locale=en&theme=github_dark&include_all_commits=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikirandevops&theme=github-dark" alt="GitHub Streak" />
-</div>
-
-## 🛠️ Technology Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+## Let's Connect 🤝
+<p align="left">
+<a href="https://linkedin.com/in/aws-freetier-62b169288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/saikiran-devops)
-- 🌐 [Personal Blog](https://devops.saikiran.com)
-- 📧 Email: saikiran.devops@gmail.com
+## 🔭 Current Focus
+- Working on [CI/CD - Pipeline deployment](https://github.com/awsfreetier30/devops-project-2)
+- Implementing Infrastructure as Code solutions
+- Building scalable cloud architectures
+- Exploring Kubernetes and container orchestration
 
-## 🎓 Certifications
-- AWS Certified Solutions Architect Professional
-- Certified Kubernetes Administrator (CKA)
-- HashiCorp Certified Terraform Associate
-- Azure DevOps Engineer Expert
+## 🛠 Languages & Tools 
+
+### Cloud Platforms
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+<a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+</p>
+
+### DevOps & Container Technologies
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
+
+### Databases & Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awsfreetier30&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=awsfreetier30&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awsfreetier30&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 📌 Pinned Repositories
+- 🚀 [devops-project-2](https://github.com/awsfreetier30/devops-project-2) - CI/CD Pipeline Implementation
+- 🛠️ [Docker-Samples](https://github.com/awsfreetier30/docker-samples) - Collection of Docker configurations
+- 🎯 [MLOps-Projects](https://github.com/awsfreetier30/mlops-projects) - Machine Learning Operations Projects
+- ⚡ [Infrastructure-as-Code](https://github.com/awsfreetier30/iac) - IaC Templates and Configurations
 
 ---
 
 <div align="center">
-  <i>"Infrastructure as code isn't about writing code; it's about engineering reliability at scale."</i>
+  <i>⚡ "Automating today for a better tomorrow" ⚡</i>
 </div>
